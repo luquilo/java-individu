@@ -4,6 +4,8 @@ public class App {
         String nama = "muhammad luqmanul hakim";
         int nim = 2113010276;
 
+
+        // new commit
         String pesan = String.format("\nhalo, nama saya %s, dan nim saya %d", nama, nim);
         
 
